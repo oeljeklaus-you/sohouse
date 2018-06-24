@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.boot:spring-boot-starter-logging:1.5.15.BUILD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-logging/1.5.15.BUILD-SNAPSHOT/spring-boot-starter-logging-1.5.15.BUILD-20180621.163236-10.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-logging/1.5.15.BUILD-SNAPSHOT/spring-boot-starter-logging-1.5.15.BUILD-20180621.163236-10-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-logging/1.5.15.BUILD-SNAPSHOT/spring-boot-starter-logging-1.5.15.BUILD-20180621.163236-10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
